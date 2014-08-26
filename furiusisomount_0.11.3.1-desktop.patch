@@ -1,0 +1,19 @@
+diff -urN furiusisomount_0.11.3.1/app.desktop furiusisomount_0.11.3.1-patched/app.desktop
+--- furiusisomount_0.11.3.1/app.desktop	2010-02-21 00:32:32.000000000 +1000
++++ furiusisomount_0.11.3.1-patched/app.desktop	2014-08-27 02:35:08.968963095 +1100
+@@ -1,12 +1,10 @@
+ [Desktop Entry]
+ Version=1.0
+-Encoding=UTF-8
+ Name=Furius ISO Mount
++GenericName=Furius ISO Mount
++Comment=Simple Gtk+ Interface to Mount ISO, IMG, BIN, MDF and NRG Image files without burning to disk
+ Type=Application
+ Exec=furiusisomount
+ Terminal=false
+-GenericName[en_GB]=
+ Icon=gtk-cdrom
+-Categories=AudioVideo;
+-GenericName=Furius ISO Mount
+-Comment[en_GB]=Simple Gtk+ Interface to Mount ISO, IMG, BIN, MDF and NRG Image files without burning to disk.
++Categories=System;DiscBurning;AudioVideo;Filesystem;
