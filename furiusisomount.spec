@@ -3,7 +3,7 @@
 Summary:	An ISO, IMG, BIN, MDF and NRG Image management utility
 Name:		furiusisomount
 Version:	0.11.3.1
-Release:	2
+Release:	3
 License:	GPLv3+
 Group:		Archiving/Cd burning
 Url:		https://launchpad.net/furiusisomount
